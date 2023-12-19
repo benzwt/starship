@@ -74,3 +74,8 @@ This preset is inspired by [tokyo-night-vscode-theme](https://github.com/enkia/t
 This preset is heavily inspired by [Pastel Powerline](./pastel-powerline.md), and [Tokyo Night](./tokyo-night.md).
 
 [![Screenshot of Gruvbox Rainbow preset](/presets/img/gruvbox-rainbow.png "Click to view Gruvbox Rainbow preset")](./gruvbox-rainbow)
+
+## [Gruvbox Capsule](./gruvbox-capsule.md)
+This preset is inspired by the [bubbles](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/bubbles.omp.json) which a theme for [oh-my-posh](https://ohmyposh.dev/)
+
+[![Screenshot of Gruvbox Capsule preset](/presets/img/gruvbox-capsule.png "Click to view Gruvbox capsule preset")](./gruvbox-capsule)
